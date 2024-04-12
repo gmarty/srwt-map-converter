@@ -1,0 +1,1 @@
+Allow this empty folder to be committed to git.

@@ -1,0 +1,29 @@
+{
+  "name": "srwt-map-converter",
+  "version": "0.1.0",
+  "description": "Convert maps from Super Robot Wars T to Collada.",
+  "keywords": [
+    "スーパーロボット大戦T",
+    "video game",
+    "reverse engineering"
+  ],
+  "license": "BlueOak-1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  },
+  "prettier": {
+    "arrowParens": "always",
+    "printWidth": 80,
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "es5"
+  }
+}
