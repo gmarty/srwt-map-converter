@@ -7,6 +7,14 @@
     "video game",
     "reverse engineering"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gmarty/srwt-map-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gmarty/srwt-map-converter/issues"
+  },
+  "homepage": "https://github.com/gmarty/srwt-map-converter#readme",
   "license": "BlueOak-1.0.0",
   "main": "index.js",
   "type": "module",
