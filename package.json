@@ -19,13 +19,15 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "directories": {
     "lib": "lib"
   },
   "devDependencies": {
-    "prettier": "^3.2.5"
+    "prettier": "^3.8.1"
   },
   "prettier": {
     "arrowParens": "always",
