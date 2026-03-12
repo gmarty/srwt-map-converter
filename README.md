@@ -51,9 +51,9 @@ The generated .dae files are not valid and do not work yet.
 | ------------- | --------------------- |
 | animations    | 🔴 Not implemented    |
 | asset         | 🟢 Fully implemented  |
-| controllers   | 🔴 Not implemented    |
+| controllers   | 🟢 Not needed         |
 | effects       | 🟠 Partly implemented |
-| geometries    | 🌕 Mostly implemented |
+| geometries    | 🟢 Fully implemented  |
 | images        | 🟢 Fully implemented  |
 | materials     | 🟠 Partly implemented |
 | scene         | 🟢 Fully implemented  |
